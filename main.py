@@ -8,7 +8,7 @@ derrotas, goles a favor/en contra y diferencia de goles) y luego entrena un
 RandomForestClassifier de scikit‑learn para predecir la posición final en la liga
 de cada equipo en una temporada posterior. La Premier League 2025/26 incluirá 20 clubes:
 los 17 equipos que permanecieron en la división en 2024/25 y tres clubes promovidos
-(Leeds United, Burnley y Sunderland)【177773065645842†screenshot】. Dado que los
+(Leeds United, Burnley y Sunderland). Dado que los
 resultados de la campaña 2024/25 aún no están disponibles libremente, el modelo
 usa la temporada 2023/24 como el conjunto más reciente de características de entrenamiento.
 Los nuevos clubes que no compitieron en 2023/24 tienen asignados valores promedio de
